@@ -21,9 +21,6 @@
 
 <style lang="scss">
   footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
     width: 100%;
     height: 2.5rem;
     background-color: #fff;
